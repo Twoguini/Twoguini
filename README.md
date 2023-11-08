@@ -12,6 +12,15 @@ As a programming student, my desire is to acquire wisdom and grow up while build
 ## Social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-comunian-a33671281/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://guilhermerscomunian@gmail.com)
+
+
+## About
+<div width="400px" justify-content="space-around" margin="auto">
+  
+[![Status](https://github-readme-stats.vercel.app/api?username=Twoguini&show_icons=true&theme=cobalt)](https://github.com/Twoguini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twoguini&layout=donut&theme=cobalt&show_icons=true)](https://github.com/Twoguini/github-readme-stats)
+
+</div>
 <!---
 Twoguini/Twoguini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
