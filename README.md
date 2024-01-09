@@ -1,11 +1,11 @@
 # What's Up
 ## I'm Guilherme, Welcome to my Portifolio.
 
-> Por meio do código as idéias se transformam em realidade e um novo mundo se estabelece.
+> Por meio do código as idéias se transformam em realidade e um novo mundo se constrói.
 
 Sou estudante de programação, desejo adquirir um maior conhecimento e amadurecer em quanto participo de projetos, transformo idéias em realidades e soluções por meio da tecnologia.
 
-> Through code, ideas become reality and a new world builds itself.
+> Through code, ideas become reality and a new world is built.
 
 As a programming student, my desire is to acquire wisdom and grow up while building projects, turning ideas into reality and bringing solutions through technology.
 
