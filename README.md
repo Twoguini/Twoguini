@@ -21,7 +21,5 @@ As a programming student, my desire is to acquire wisdom and grow up while build
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twoguini&layout=donut&theme=cobalt&show_icons=true)](https://github.com/Twoguini/github-readme-stats)
 
 </div>
-<!---
-Twoguini/Twoguini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## [Project List](./Projects.md)
