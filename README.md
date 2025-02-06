@@ -1,13 +1,13 @@
-# What's Up
-## I'm Guilherme, Welcome to my Portifolio.
+# My journey
+It began when I was just 11 years old. I started by studying logic and experimenting with JavaScript and Python, eventually developing a functional Discord bot, a classic calculator, and other small projects. Although I moved on from those early creations, they fueled my passion for software development.
 
-> Por meio do código as idéias se transformam em realidade e um novo mundo se constrói.
+Since then, I’ve continuously expanded my knowledge, taking courses and working on various projects. I firmly believe that programming is a field where learning never stops, and I embrace that mindset.
 
-Sou estudante de programação, desejo adquirir um maior conhecimento e amadurecer em quanto participo de projetos, transformo idéias em realidades e soluções por meio da tecnologia.
+Through experience and mentors, I’ve learned that rough code is okay. What truly matters is writing code that handles data responsibly and remains readable for other developers through clear structure and meaningful comments. I also firmly believe that testing software during development is crucial. Regular testing minimizes the chances of bugs and errors, even in seemingly unrelated functionalities, ensuring a more reliable and maintainable system.
 
-> Through code, ideas become reality and a new world is built.
+My goal is to build both low and high-level systems that make a real impact, whether by solving complex problems, optimizing processes, or creating innovative solutions. Ultimately, I strive to contribute to the world through technology while building a stable and fulfilling career.
 
-As a programming student, my desire is to acquire wisdom and grow up while building projects, turning ideas into reality and bringing solutions through technology.
+There have been periods when I wasn’t actively working on projects, and I’ve also lost some along the way. However, I’m now committed to dedicating my free time to building new projects and expanding my portfolio.
 
 ## Social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-comunian-a33671281/)
