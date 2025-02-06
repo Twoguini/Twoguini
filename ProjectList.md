@@ -1,17 +1,11 @@
-<style>
-  r {color: red}
-  g {color: green}
-  o {color: orange}
-</style>
-
 # List of Projects:
 
-## <g> Done </g>
+## <g style="color: green;"> Done </g>
 
-## <o>On Going </o>
+## <o style="color: orange;"> On Going </o>
 - **CFG File CRUD**
 
-## <r> Todo </r>
+## <r style="color: red;"> Todo </r>
 - **Instagram Following Verifier**
 - **Visual Calculator that Emulates how a Mecanic Calculator Works** 
 - **Personal Watching List WebSite With Database**
