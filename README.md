@@ -22,4 +22,4 @@ There have been periods when I wasn’t actively working on projects, and I’ve
 
 </div>
 
-## [Project List](./ProjectList/README.md)
+## [Project List](ProjectList/README.md)
